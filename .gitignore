@@ -1,0 +1,65 @@
+# Compiled class files
+*.class
+target/
+build/
+out/
+
+# Log files
+*.log
+logs/
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs
+hs_err_pid*
+replay_pid*
+
+# IDE-specific files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+.factorypath
+nbproject/
+nb-configuration.xml
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Gradle
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+
+# Database configuration file (contains sensitive credentials)
+src/main/resources/com/example/onlinequiz/config/config.properties
+
+# OS-specific files
+.DS_Store
+Thumbs.db
